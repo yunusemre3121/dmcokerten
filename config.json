@@ -1,0 +1,111 @@
+{
+  "bots": [
+      {
+          "token": "",
+          "isModerator": true
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      },
+      {
+          "token": ""
+      }
+  ],
+  "logChannelId": "1361763854849151246",
+  "commandChannelId": "1361763854849151246",
+  "noSpamRoleId": "1361784616754745515",
+  "ownerLogChannelId": "1361763890010263673"
+}
